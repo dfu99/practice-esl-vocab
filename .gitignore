@@ -1,0 +1,5 @@
+pdfs/
+._*
+~$*
+.DS_Store
+.ipynb_checkpoints/
